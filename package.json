@@ -1,6 +1,6 @@
 {
   "name": "@vcvckw/tostr",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert to the text you want.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/vcvvvc/tostr#readme",
   "dependencies": {
     "@vcvckw/convstr": "^1.0.9",
+    "@vcvckw/tostr": "^1.0.2",
     "@kdthanvi/pkgx": "^2.0.0",
     "jsencrypt": "^3.3.2",
     "cache": "^2.1.0",
